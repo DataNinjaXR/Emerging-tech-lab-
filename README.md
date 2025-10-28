@@ -1,12 +1,16 @@
 # Emerging-tech-lab-
 
-📊 EMERGING TECH. LAB - I (Data Science and Statistics)
+📊 EMERGING TECH. LAB - I (Data Science and Statistics)   
+
+
 Welcome to the Emerging Tech Lab - I repository!
 This lab is focused on learning the fundamentals of data science, statistics, and machine learning using Python and Jupyter Notebook.
 
 Throughout this lab, we explore data manipulation, statistical analysis, and core machine learning algorithms. The lab exercises are implemented using popular Python libraries such as pandas, numpy, matplotlib, seaborn, and scikit-learn.
 
 🛠️ Tools & Technologies
+
+
 Language: Python 3.x
 Platform: Jupyter Notebook
 Libraries:
@@ -15,7 +19,11 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+
+
 🧪 List of Practicals
+
+
 Below are the practicals covered in this lab:
 
 Data Acquisition using Pandas
